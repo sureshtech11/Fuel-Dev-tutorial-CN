@@ -1,0 +1,4 @@
+mkdir tea-testnet-project
+cd tea-testnet-project
+git init
+npm init -y
